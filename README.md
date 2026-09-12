@@ -53,3 +53,8 @@ types/types.ts        Shared TypeScript types
 - TypeScript
 - Tailwind CSS 
 - TheMealDB REST API
+
+
+Git repo link : https://github.com/SuneethaBandaru/RecipeFinder
+
+Vercel live link : https://recipe-finder-six-ashen.vercel.app/
